@@ -1,0 +1,13 @@
+[package]
+name = "rugged"
+version = "0.0.1"
+descrption = "A Rust L2TP client."
+authors = ["Kim Nilsson <kim@wayoftao.net>"]
+license = "GPL-2.0"
+homepage = "https://github.com/nilssonk/rugged"
+repository = "https://github.com/nilssonk/rugged"
+categories = ["network-programming", "command-line-utilities"]
+edition = "2021"
+
+[dependencies]
+rl2tp = "0.2.0"
