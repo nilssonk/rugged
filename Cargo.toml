@@ -1,7 +1,7 @@
 [package]
 name = "rugged"
 version = "0.0.1"
-descrption = "A Rust L2TP client."
+description = "A Rust L2TP client."
 authors = ["Kim Nilsson <kim@wayoftao.net>"]
 license = "GPL-2.0"
 homepage = "https://github.com/nilssonk/rugged"
