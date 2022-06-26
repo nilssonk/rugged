@@ -13,4 +13,6 @@ edition = "2021"
 fail-on-warnings = []
 
 [dependencies]
-rl2tp = "0.2.0"
+rl2tp = "0.2.1"
+tokio = { version = "1.19", features = ["full"] }
+md5 = "0.7"
